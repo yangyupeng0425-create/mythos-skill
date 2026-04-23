@@ -361,6 +361,10 @@ Parcae（帕耳开）是罗马神话中的三位命运女神：
 3. Dehghani, M., et al. (2019). "Universal Transformers"
 4. DeepSeekMoE: Towards Ultimate Expert Utilization in Mixture-of-Experts Models
 
+### 致谢
+
+特别感谢 **kyegomez** 开源的 **Claude Mythos** 项目，为深度循环推理系统提供了宝贵的灵感和技术参考。
+
 ---
 
 **文档信息**
